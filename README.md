@@ -73,5 +73,5 @@ If you’d like to support the development of **BlankTech Tools**, you can help 
 Your contribution helps keep the project **free**, **updated**, and **ad-free** for everyone. 🙌
 
 ### ☕ Support the Developer
-- 💵 **PayPal:** [https://paypal.me/loxy0dev](https://paypal.me/geogia1221)  
+- 💵 **PayPal:** [https://paypal.me/geogia1221](https://paypal.me/geogia1221)  
 
